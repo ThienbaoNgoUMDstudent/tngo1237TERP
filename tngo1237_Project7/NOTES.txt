@@ -1,0 +1,89 @@
+This Project is very similar to what you did in project 1.
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Below is the absolute bare minimum / what you will always need for every HTML page. -->
+
+<head>
+
+    <meta charset="utf-8">
+
+    <!-- For responsive page and proper scaling based on device -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Only search engines can read this. -->
+    <title>Render Static Site</title>
+
+    <!-- For linking with CSS file.
+     
+    link rel="stylesheet" href="Summer.css"
+    -->
+
+
+<!-- Assignment Instructions
+
+Specifications/Requirements
+
+You need to host a page on http://www.render.com/ using https://github.com/. A sample page is https://nelsonstaticsite.onrender.com/.
+The page requirements are:
+
+It will have a header with the name "Render Static Site". [Implemented.]
+
+Your name after the text "Name: " [Implemented.]
+
+The link to the GitHub location used to deploy the site on GitHub after "GitHub Location: " []
+
+A link to the terpconnect page you deploy after "Terpconnect Location:" []
+
+Remember that you don't have to pay anything to use render.com
+
+To deploy your page, create a VS Code folder with an index.html file (NOTICE IT CANNOT have the .shtml extension)
+with the information specified above. Then follow the instructions provided at
+https://www.cs.umd.edu/~nelson/classes/resources/web/renderDeployment/static_site/.
+
+-->
+
+
+<!--
+
+-->
+
+</head>
+<!-- End of head. -->
+
+<!-- Your borders. -->
+
+    <body>
+
+        <h1>Render Static Site</h1>
+
+        <strong>Name:</strong> Thienbao Ngo
+        <br>
+        <strong>GitHub Location: </strong><a href="https://github.com/ThienbaoNgoUMDstudent/Source"><span>https://github.com/ThienbaoNgoUMDstudent/Source</span> </a>
+        <br>
+        <strong>Terpconnect Location: </strong><a href="https://www.terpconnect.umd.edu/~tngo1237/terpconnect_static_site/" title="Part2"><span>https://www.terpconnect.umd.edu/~tngo1237/terpconnect_static_site/</span></a>
+        
+
+        <!-- Add links here. -->
+        
+        <!-- End of links -->
+
+        
+
+    </body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+

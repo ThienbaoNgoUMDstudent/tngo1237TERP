@@ -1,0 +1,68 @@
+<!-- This Project is very similar to what you did in project 1. -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Below is the absolute bare minimum / what you will always need for every HTML page. -->
+
+<head>
+
+    <meta charset="utf-8">
+
+    <!-- For responsive page and proper scaling based on device -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Only search engines can read this. -->
+    <title>Render Static Site</title>
+
+    <!-- For linking with CSS file.
+     
+    link rel="stylesheet" href="Summer.css"
+    -->
+
+<!--
+
+-->
+
+</head>
+<!-- End of head. -->
+
+<!-- Your borders. -->
+
+    <body>
+
+        <h1>Render Deployment Page</h1>
+
+        <ul>
+            <li>
+                <strong>Name:</strong> Thienbao Ngo
+            </li>
+                
+            <li>
+                <strong>GitHub Location: </strong><a href="https://github.com/ThienbaoNgoUMDstudent/Source"><span>https://github.com/ThienbaoNgoUMDstudent/Source</span> </a>
+            </li>
+                
+            <li>
+                <strong>Terpconnect Location: </strong><a href="https://www.terpconnect.umd.edu/~tngo1237/terpconnect_static_site/" title="Part2"><span>https://www.terpconnect.umd.edu/~tngo1237/terpconnect_static_site/</span></a>
+            </li>
+                
+            <li>
+                <strong>Clearing Database Movies: </strong><a href="https://www.terpconnect.umd.edu/~tngo1237/terpconnect_static_site/" title="Part2"><span>https://www.terpconnect.umd.edu/~tngo1237/terpconnect_static_site/</span></a>
+            </li>
+                
+            <li>
+                <strong>Inserting Movies: </strong><a href="https://www.terpconnect.umd.edu/~tngo1237/terpconnect_static_site/" title="Part2"><span>https://www.terpconnect.umd.edu/~tngo1237/terpconnect_static_site/</span></a>
+            </li>
+                
+            <li>
+                <strong>List Movies: </strong><a href="https://www.terpconnect.umd.edu/~tngo1237/terpconnect_static_site/" title="Part2"><span>https://www.terpconnect.umd.edu/~tngo1237/terpconnect_static_site/</span></a>
+            </li>
+        </ul>
+
+        <!-- Add links here. -->
+        
+        <!-- End of links -->
+
+    </body>
+
+</html>

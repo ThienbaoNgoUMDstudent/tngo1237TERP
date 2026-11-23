@@ -1,0 +1,85 @@
+<!-- This Project is very similar to what you did in project 1. -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Below is the absolute bare minimum / what you will always need for every HTML page. -->
+
+<head>
+
+    <meta charset="utf-8">
+
+    <!-- For responsive page and proper scaling based on device -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Only search engines can read this. -->
+    <title>Render Static Site</title>
+
+    <!-- For linking with CSS file.
+     
+    link rel="stylesheet" href="Summer.css"
+    -->
+
+<!--
+
+-->
+
+</head>
+<!-- End of head. -->
+
+<!-- Your borders. -->
+
+    <body>
+
+        <h1>Render Deployment Page</h1>
+
+        <ul>
+            <li>
+                <strong>Name:</strong> Thienbao Ngo
+            </li>
+                
+            <li>
+                <strong>GitHub Location: </strong><a href="https://github.com/ThienbaoNgoUMDstudent/CMSC335_Project_7"><span>https://github.com/ThienbaoNgoUMDstudent/CMSC335_Project_7</span> </a>
+            </li>
+
+            <!--
+                https://YOUR_RENDER_URL/insertMovies
+                https://YOUR_RENDER_URL/listMovies
+                https://YOUR_RENDER_URL/clearCollection
+
+                https://YOUR_RENDER_URL/getSummary (For testing purposes only.)
+            -->
+                
+            <li>
+                <strong>Render Location: </strong><a href="https://cmsc335-project-7-4egy.onrender.com/" title="Part2"><span>https://thienbaongoterp.onrender.com/</span></a>
+            </li>
+                
+            <li>
+                <strong>Clearing Database Movies: </strong>
+                <a href="https://cmsc335-project-7-4egy.onrender.com/clearCollection" title="Clear Collection">
+                    <span>https://thienbaongoterp.onrender.com/clearCollection</span>
+                </a>
+            </li>
+
+            <li>
+                <strong>Inserting Movies: </strong>
+                <a href="https://cmsc335-project-7-4egy.onrender.com/insertMovies" title="Insert Movies">
+                    <span>https://thienbaongoterp.onrender.com/insertMovies</span>
+                </a>
+            </li>
+
+            <li>
+                <strong>List Movies: </strong>
+                <a href="https://cmsc335-project-7-4egy.onrender.com/listMovies" title="List Movies">
+                    <span>https://thienbaongoterp.onrender.com/listMovies</span>
+                </a>
+            </li>
+        </ul>
+
+        <!-- Add links here. -->
+        
+        <!-- End of links -->
+
+    </body>
+
+</html>

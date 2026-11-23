@@ -9,7 +9,13 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.set("view engine", "ejs");
 app.set("views", path.resolve(__dirname, "templates"));
 
-/* Local host needs this if you want to test, but Render does not need this. */
+/*
+   Local host needs this if you want to test, but Render does not need this.
+
+   This is working on local host even when you don't uncomment.
+
+   May have something to do with your EXXAMP settings.
+*/
 
 /*
 require("dotenv").config({
